@@ -14,4 +14,3 @@ This repository offers a comprehensive compilation of deep learning projects tha
 
 - **MIT Deep Learning Labs:** Implementations of labs from the MIT Deep Learning course, providing practical exercises for mastering deep learning principles.
 
-## Project Structure
